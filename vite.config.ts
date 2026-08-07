@@ -8,6 +8,10 @@ export default defineConfig({
         main: resolve(__dirname, "index.html"),
         captains: resolve(__dirname, "captains/index.html"),
         projects: resolve(__dirname, "projects/index.html"),
+        nonCircularGearGenerator: resolve(
+          __dirname,
+          "non-circular-gear-generator/index.html",
+        ),
         nonCircularGears: resolve(
           __dirname,
           "projects/non-circular-gears/index.html",
