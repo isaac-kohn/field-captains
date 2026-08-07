@@ -1,3 +1,3 @@
-const heading = document.createElement("h1");
+/*const heading = document.createElement("h1");
 heading.textContent = "Captains";
-document.body.append(heading);
+document.body.append(heading);*/
